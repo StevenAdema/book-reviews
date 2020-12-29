@@ -7,11 +7,11 @@
 ⭐⭐⭐⭐
 
 **Briefly** <br>
-Cyberpunk murder mystery where consciousness can be downloaded into different bodies and Eath's elites have been alive for centuries.
+Cyberpunk murder mystery where consciousness can be downloaded into different bodies and Earth's elites have been alive for centuries.
 
 **Takeaways**<br>
 *Meths*<br>
-In a world where concsiousness can be uploaded into new sleeves (natural or synthetic bodies), those who are rich enough can indefinitely extend their life and accumulate incredible wealth and power.  Morgan explores the dichotemy between two classes of humans in the future: those who can't afford immortatlity, and the meths.
+In a world where consciousness can be uploaded into new sleeves (natural or synthetic bodies), those who are rich enough can indefinitely extend their life and accumulate incredible wealth and power.  Morgan explores the dichotemy between two classes of humans in the future: those who can't afford immortatlity, and the meths.
 
 *Stacks*<br>
 Consciousness on a disk.  An individual's entire memory and experience saved to a drive that can uploaded into any sleeve. Are humans solely their previous experience? What happens when a single consciousness is uploaded into two sleeves simulataneously (a major crime in the book called 'double-sleeving')? What is the impact of a body on the mind? 
