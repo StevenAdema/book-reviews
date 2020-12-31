@@ -7,6 +7,8 @@
 
 <br>
 ⭐⭐⭐⭐
+<br>
+<br>
 
 **Briefly** <br>
 I was introduced to Hayek through Russ Robert's podcast EconTalk.  The Fatal Conceit is well argued and gave me a new appreciation for the forces at work that make up the modern economy.
@@ -26,14 +28,9 @@ Hayek articulates clearly both the nature of capitalist economies and why the so
 
 <br><br>
 ```
-The curious task of economics is to demonstrate to men how little they really know about what they imagine the can design.
-― Friedrich Hayek
-
-To understand our civilisation, one must appreciate that the extended order resulted not from human design or intention but spontaneously: it arose from unintentionally conforming to certain traditional and largely moral practices, many of which men tend to dislike, whose significance they usually fail to understand, whose validity they cannot prove, and which have nonetheless fairly rapidly spread by means of an evolutionary selection – the comparative increase of population and wealth – of those groups that happened to follow them
-― Friedrich Hayek
-
-We are led to do things by circumstance of which we are largely unaware and which produce results that we do not intend.  In our economic activities we do not know the needs which we satisfy nor the source of the things which we get. Almost all of us serve people whom we do no knkow, and even of whose existence we are ignorant; and we in turn concstatly live on the services of other people of whom we know nothing.
-― Friedrich Hayek
-
+Today abstraction is no longer that of the map, the double, the mirror, or the concept.
+Simulation is no longer that of a territory, a referential being, or a substance.
+It is the generation by models of a real without origin or reality: a hyperreal.
+― Jean Baudrillard
 ```
 
