@@ -5,7 +5,8 @@
 ![NPM License](https://img.shields.io/badge/-philosophy-blue) ![NPM License](https://img.shields.io/badge/-nonfiction-blue) ![NPM License](https://img.shields.io/badge/-sociology-blue) 
 <br>
 ⭐⭐
-
+<br>
+<br>
 **Briefly** <br>
 Is it possible to love the ideas of a philosopher but find his work terribly unreadable?
 
@@ -27,7 +28,9 @@ This one gets marked down as a DNF.  As much as I loved the philosophy that insp
 
 <br><br>
 ```
-
-― Richard K. Morgan, Altered Carbon
+Today abstraction is no longer that of the map, the double, the mirror, or the concept.
+Simulation is no longer that of a territory, a referential being, or a substance.
+It is the generation by models of a real without origin or reality: a hyperreal.
+― Jean Baudrillard
 ```
 
