@@ -1,5 +1,5 @@
 In Order to Live
-##### Douglas Adams
+##### Yeopnmi Park
 ##### 1979
 
 ![NPM License](https://img.shields.io/badge/-sci_fi-blue) ![NPM License](https://img.shields.io/badge/-humor-blue) ![NPM License](https://img.shields.io/badge/-fiction-blue) 
