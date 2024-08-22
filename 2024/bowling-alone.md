@@ -1,23 +1,23 @@
-# What Strange Paradise
+# Bowling Alone: The Collapse and Revival of American Community
 
-##### Omar El Akkad
+##### Robert Putnam
 
-##### 2021
+##### 2000
 
  
 
-![NPM License](https://img.shields.io/badge/-fiction-blue) ![NPM License](https://img.shields.io/badge/-politics-blue) ![NPM License](https://img.shields.io/badge/-cultural-blue)
+![NPM License](https://img.shields.io/badge/-nonfiction-blue) ![NPM License](https://img.shields.io/badge/-cultural-blue) ![NPM License](https://img.shields.io/badge/-sociology-blue) ![NPM License](https://img.shields.io/badge/-philosophy-blue) ![NPM License](https://img.shields.io/badge/-rereading-blue)
+ 
 
-
-⭐⭐⭐
+⭐⭐⭐⭐⭐
 
  
 
 **Briefly** <br>
 
-A Syrian migrant washes up on the beach of Greek island. The book is divided into ‘before’ and ‘after’ chapters that pace it well, but takes away any suspense in the ‘before’ portion.  The details of the refugee’s story left me with questions and prompted some great book club discussion.
+Putnam masterfully documents one of the most important social trends in recent American history: the decline in face-to-face interaction.
 
- 
+
 
 **Takeaways**<br>
 
